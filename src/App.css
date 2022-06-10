@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 5em;
+  border: #1976d2 1px solid;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-left: 25em;
+}
+h1 {
+  color: #1976d2;
+}
+
+/* .App-header {
+  background-color: #55595f;
+  min-height: 100vh;
+
+} */
